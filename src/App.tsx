@@ -1,9 +1,11 @@
-// import {Bootstrap} from '@goldlabelapps/core';
+
+import {Bootstrap} from '@goldlabelapps/core';
 
 function App() {  
   return (
     <>
       @goldlabelapps/core
+      <Bootstrap />
     </>
   )
 }
